@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, I'm passionate about sharing knowledge
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Ifeanyi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeanyiikuni&langs_count=8&layout=compact&hide_border=true" alt="Ifeanyi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ifeanyiikuni&show_icons=true&include_all_commits=true&hide_border=true" alt="Ifeanyi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeanyiikuni&langs_count=8&layout=compact&hide_border=true" alt="Ifeanyi's GitHub stats" /> |
 | ------------- | ------------- |
